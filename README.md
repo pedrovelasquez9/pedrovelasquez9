@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrovelasquez9" alt="pedrovelasquez9" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prog_es" target="blank"><img src="https://img.shields.io/twitter/follow/prog_es?logo=twitter&style=for-the-badge" alt="prog_es" /></a> </p>
+<p align="left"> <a href="https://twitter.com/program_es" target="blank"><img src="https://img.shields.io/twitter/follow/prog_es?logo=twitter&style=for-the-badge" alt="prog_es" /></a> </p>
 
 - 🔭 I’m currently working as **a freelancer for several clients and to bring content for development community**
 
