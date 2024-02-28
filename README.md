@@ -10,8 +10,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/pedrovelasquez9)
 ![GitHub User's stars](https://img.shields.io/github/stars/pedrovelasquez9)
 ![Twitch Status](https://img.shields.io/twitch/status/programacion_es)
-![Discord Status](https://img.shields.io/discord/discord-id?logo=discord&logoColor=white&label=discord)
-![Youtube Views](https://img.shields.io/youtube/channel/views/youtube-id?style=flat&logo=youtube)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/program_es)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNliuGyPizt7uNcdCrUoduQ)
 
 </div>
 
