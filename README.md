@@ -1,4 +1,4 @@
-![Header Image](https://programacion-es.dev/programacion%20en%20espa%C3%B1ol.webp)
+![Header Image](https://raw.githubusercontent.com/pedrovelasquez9/devathon-landing/main/public/programacion-en-esp.webp)
 
 <h1 align="center">Hi 👋, I'm <span style="color: blue">Pedro Plasencia</span></h1>
 <h3 align="center">Web developer living in Spain and founder of Programación en español's development community!</h3>
